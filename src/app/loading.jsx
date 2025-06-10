@@ -7,3 +7,4 @@ export default function loading() {
     </div>
   )
 }
+// Use loading.io page to create a spinner
